@@ -4,3 +4,7 @@ jenkinsapi
 requests
 colorama
 re
+hashlib
+urllib
+bs4
+BeautifulSoup

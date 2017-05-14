@@ -2,3 +2,5 @@ nmap
 mechanize
 jenkinsapi
 requests
+colorama
+re

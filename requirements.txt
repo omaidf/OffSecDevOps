@@ -1,0 +1,4 @@
+nmap
+mechanize
+jenkinsapi
+requests
